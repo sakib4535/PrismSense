@@ -1,0 +1,1461 @@
+{
+  "source": "https://api.worldbank.org/v2/country/BGD",
+  "fetched": "2026-10-04",
+  "documents": [
+    {
+      "id": "wb-si.pov.nahc",
+      "title": "World Bank: Poverty headcount ratio at national poverty lines (% of population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SI.POV.NAHC?locations=BD",
+      "date": "2022",
+      "theme": "Poverty",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SI.POV.NAHC: Poverty headcount ratio at national poverty lines (% of population). Latest value in this extract: 18.7% in 2022. Earlier values, newest first: 2022 18.7%. National poverty line headcount published by the World Bank. For Bangladesh the 2022 value is the HIES upper line. It is not the 2025 household survey. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SI.POV.NAHC?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SI.POV.NAHC?format=json."
+    },
+    {
+      "id": "wb-si.pov.dday",
+      "title": "World Bank: Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SI.POV.DDAY?locations=BD",
+      "date": "2022",
+      "theme": "Poverty",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SI.POV.DDAY: Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population). Latest value in this extract: 5.9% in 2022. Earlier values, newest first: 2022 5.9%; 2016 19.5%; 2010 25.1%; 2005 32.3%; 2000 41.4%. International poverty line at $3.00 a day in 2021 PPP, as named by the World Bank API. Not the national line and not a $2.15 line. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SI.POV.DDAY?format=json."
+    },
+    {
+      "id": "wb-si.pov.lmic",
+      "title": "World Bank: Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SI.POV.LMIC?locations=BD",
+      "date": "2022",
+      "theme": "Poverty",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SI.POV.LMIC: Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population). Latest value in this extract: 20.5% in 2022. Earlier values, newest first: 2022 20.5%; 2016 44.7%; 2010 52.1%; 2005 59%; 2000 66.5%. International line at $4.20 a day in 2021 PPP. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SI.POV.LMIC?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SI.POV.LMIC?format=json."
+    },
+    {
+      "id": "wb-si.pov.umic",
+      "title": "World Bank: Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SI.POV.UMIC?locations=BD",
+      "date": "2022",
+      "theme": "Poverty",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SI.POV.UMIC: Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population). Latest value in this extract: 71.5% in 2022. Earlier values, newest first: 2022 71.5%; 2016 85.7%; 2010 88.6%; 2005 90%; 2000 92.3%. International line at $8.30 a day in 2021 PPP. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SI.POV.UMIC?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SI.POV.UMIC?format=json."
+    },
+    {
+      "id": "wb-si.pov.gini",
+      "title": "World Bank: Gini index — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SI.POV.GINI?locations=BD",
+      "date": "2022",
+      "theme": "Economy",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SI.POV.GINI: Gini index. Latest value in this extract: 30.9% in 2022. Earlier values, newest first: 2022 30.9%; 2016 32.4%; 2010 32.1%; 2005 33.2%; 2000 33.4%. Gini index of income or consumption, World Bank series. Not a poverty headcount. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SI.POV.GINI?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SI.POV.GINI?format=json."
+    },
+    {
+      "id": "wb-ny.gdp.mktp.kd.zg",
+      "title": "World Bank: GDP growth (annual %) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BD",
+      "date": "2025",
+      "theme": "Economy",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator NY.GDP.MKTP.KD.ZG: GDP growth (annual %). Latest value in this extract: 3.5% in 2025. Earlier values, newest first: 2025 3.5%; 2024 4.2%; 2023 5.8%; 2022 7.1%; 2021 6.9%; 2020 3.4%; 2019 7.9%; 2018 7.3%. Annual real GDP growth. A national accounts series, not a household welfare measure. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/NY.GDP.MKTP.KD.ZG?format=json."
+    },
+    {
+      "id": "wb-ny.gdp.pcap.cd",
+      "title": "World Bank: GDP per capita (current US$) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BD",
+      "date": "2025",
+      "theme": "Economy",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator NY.GDP.PCAP.CD: GDP per capita (current US$). Latest value in this extract: US$ 2,597 in 2025. Earlier values, newest first: 2025 US$ 2,597; 2024 US$ 2,593; 2023 US$ 2,551; 2022 US$ 2,716; 2021 US$ 2,483; 2020 US$ 2,249; 2019 US$ 2,130; 2018 US$ 1,965. GDP per capita in current US dollars. Not household median income. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/NY.GDP.PCAP.CD?format=json."
+    },
+    {
+      "id": "wb-sp.pop.totl",
+      "title": "World Bank: Population, total — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
+      "date": "2025",
+      "theme": "Research",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SP.POP.TOTL: Population, total. Latest value in this extract: 175,686,899 in 2025. Earlier values, newest first: 2025 175,686,899; 2024 173,562,364; 2023 171,466,990; 2022 169,384,897; 2021 167,658,854; 2020 166,298,024; 2019 164,913,055; 2018 163,523,103. Mid-year population estimate published by the World Bank. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SP.POP.TOTL?format=json."
+    },
+    {
+      "id": "wb-sl.uem.totl.zs",
+      "title": "World Bank: Unemployment, total (% of total labor force) (modeled ILO estimate) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BD",
+      "date": "2025",
+      "theme": "Economy",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SL.UEM.TOTL.ZS: Unemployment, total (% of total labor force) (modeled ILO estimate). Latest value in this extract: 3.8% in 2025. Earlier values, newest first: 2025 3.8%; 2024 3.6%; 2023 3.4%; 2022 4.6%; 2021 5.5%; 2020 5.5%; 2019 4.5%; 2018 4.4%. Modeled ILO unemployment rate published by the World Bank. Not a household-survey underemployment rate. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SL.UEM.TOTL.ZS?format=json."
+    },
+    {
+      "id": "wb-sl.tlf.cact.fe.zs",
+      "title": "World Bank: Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?locations=BD",
+      "date": "2025",
+      "theme": "Economy",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SL.TLF.CACT.FE.ZS: Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate). Latest value in this extract: 38.6% in 2025. Earlier values, newest first: 2025 38.6%; 2024 38.7%; 2023 41.9%; 2022 43.7%; 2021 42.2%; 2020 40.3%; 2019 39.3%; 2018 38.1%. Modeled ILO female labour-force participation, ages 15 and above. Not the participation rate in the 2025 household survey. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SL.TLF.CACT.FE.ZS?format=json."
+    },
+    {
+      "id": "wb-se.adt.litr.zs",
+      "title": "World Bank: Literacy rate, adult total (% of people ages 15 and above) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?locations=BD",
+      "date": "2022",
+      "theme": "Education",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SE.ADT.LITR.ZS: Literacy rate, adult total (% of people ages 15 and above). Latest value in this extract: 79% in 2022. Earlier values, newest first: 2022 79%; 2021 76.4%; 2020 74.9%; 2019 74.7%; 2018 73.9%; 2017 72.9%; 2016 72.8%; 2015 65.1%. Adult literacy, ages 15 and above. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SE.ADT.LITR.ZS?format=json."
+    },
+    {
+      "id": "wb-se.prm.enrr",
+      "title": "World Bank: School enrollment, primary (% gross) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SE.PRM.ENRR?locations=BD",
+      "date": "2024",
+      "theme": "Education",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SE.PRM.ENRR: School enrollment, primary (% gross). Latest value in this extract: 106.5% in 2024. Earlier values, newest first: 2024 106.5%; 2023 103.1%; 2022 107.8%; 2021 106.3%; 2020 110.1%; 2018 107.2%; 2017 105.1%; 2010 94.8%. Gross primary enrollment. A rate above 100 can reflect over-age students, not universal completion. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SE.PRM.ENRR?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SE.PRM.ENRR?format=json."
+    },
+    {
+      "id": "wb-se.sec.enrr",
+      "title": "World Bank: School enrollment, secondary (% gross) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SE.SEC.ENRR?locations=BD",
+      "date": "2024",
+      "theme": "Education",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SE.SEC.ENRR: School enrollment, secondary (% gross). Latest value in this extract: 64.3% in 2024. Earlier values, newest first: 2024 64.3%; 2023 66%; 2022 67%; 2021 66.8%; 2020 66.4%; 2019 65.1%; 2018 65.3%; 2017 62.3%. Gross secondary enrollment. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SE.SEC.ENRR?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SE.SEC.ENRR?format=json."
+    },
+    {
+      "id": "wb-sh.xpd.chex.gd.zs",
+      "title": "World Bank: Current health expenditure (% of GDP) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=BD",
+      "date": "2023",
+      "theme": "Health",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SH.XPD.CHEX.GD.ZS: Current health expenditure (% of GDP). Latest value in this extract: 2.2% in 2023. Earlier values, newest first: 2023 2.2%; 2022 2.2%; 2021 2.3%; 2020 2.2%; 2019 2.1%; 2018 2.3%; 2017 2.4%; 2016 2.4%. Current health expenditure as a share of GDP. Not the share of the government budget. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SH.XPD.CHEX.GD.ZS?format=json."
+    },
+    {
+      "id": "wb-sh.sta.mmrt",
+      "title": "World Bank: Maternal mortality ratio (modeled estimate, per 100,000 live births) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SH.STA.MMRT?locations=BD",
+      "date": "2023",
+      "theme": "Health",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SH.STA.MMRT: Maternal mortality ratio (modeled estimate, per 100,000 live births). Latest value in this extract: 115 per 100,000 live births in 2023. Earlier values, newest first: 2023 115 per 100,000 live births; 2022 131 per 100,000 live births; 2021 194 per 100,000 live births; 2020 152 per 100,000 live births; 2019 157 per 100,000 live births; 2018 168 per 100,000 live births; 2017 179 per 100,000 live births; 2016 191 per 100,000 live births. Modeled maternal mortality ratio. Not a count of deaths from a single facility study. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SH.STA.MMRT?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SH.STA.MMRT?format=json."
+    },
+    {
+      "id": "wb-sh.dyn.mort",
+      "title": "World Bank: Mortality rate, under-5 (per 1,000 live births) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SH.DYN.MORT?locations=BD",
+      "date": "2024",
+      "theme": "Health",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SH.DYN.MORT: Mortality rate, under-5 (per 1,000 live births). Latest value in this extract: 30.5 per 1,000 live births in 2024. Earlier values, newest first: 2024 30.5 per 1,000 live births; 2023 30.6 per 1,000 live births; 2022 30.7 per 1,000 live births; 2021 30.9 per 1,000 live births; 2020 31.4 per 1,000 live births; 2019 32.3 per 1,000 live births; 2018 33.5 per 1,000 live births; 2017 35.0 per 1,000 live births. Under-five mortality per 1,000 live births. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SH.DYN.MORT?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SH.DYN.MORT?format=json."
+    },
+    {
+      "id": "wb-sp.dyn.le00.in",
+      "title": "World Bank: Life expectancy at birth, total (years) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BD",
+      "date": "2024",
+      "theme": "Health",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SP.DYN.LE00.IN: Life expectancy at birth, total (years). Latest value in this extract: 74.9 years in 2024. Earlier values, newest first: 2024 74.9 years; 2023 74.7 years; 2022 74.3 years; 2021 71.1 years; 2020 71.4 years; 2019 72.6 years; 2018 72.1 years; 2017 71.6 years. Life expectancy at birth, both sexes. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SP.DYN.LE00.IN?format=json."
+    },
+    {
+      "id": "wb-sh.h2o.basw.zs",
+      "title": "World Bank: People using at least basic drinking water services (% of population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SH.H2O.BASW.ZS?locations=BD",
+      "date": "2024",
+      "theme": "WASH",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SH.H2O.BASW.ZS: People using at least basic drinking water services (% of population). Latest value in this extract: 98.8% in 2024. Earlier values, newest first: 2024 98.8%; 2023 98.7%; 2022 98.6%; 2021 98.4%; 2020 98.3%; 2019 98.1%; 2018 97.9%; 2017 97.8%. People using at least basic drinking water services. Not the same as safely managed water. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SH.H2O.BASW.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SH.H2O.BASW.ZS?format=json."
+    },
+    {
+      "id": "wb-sh.sta.bass.zs",
+      "title": "World Bank: People using at least basic sanitation services (% of population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SH.STA.BASS.ZS?locations=BD",
+      "date": "2024",
+      "theme": "WASH",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SH.STA.BASS.ZS: People using at least basic sanitation services (% of population). Latest value in this extract: 67.6% in 2024. Earlier values, newest first: 2024 67.6%; 2023 65.6%; 2022 63.7%; 2021 61.7%; 2020 59.7%; 2019 57.8%; 2018 55.8%; 2017 53.9%. People using at least basic sanitation services. Not a measure of households without any toilet in a single survey. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SH.STA.BASS.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SH.STA.BASS.ZS?format=json."
+    },
+    {
+      "id": "wb-sp.urb.totl.in.zs",
+      "title": "World Bank: Urban population (% of total population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BD",
+      "date": "2025",
+      "theme": "Urban",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SP.URB.TOTL.IN.ZS: Urban population (% of total population). Latest value in this extract: 33.2% in 2025. Earlier values, newest first: 2025 33.2%; 2024 32.7%; 2023 32.2%; 2022 31.7%; 2021 31.4%; 2020 31.1%; 2019 30.8%; 2018 30.5%. Urban share of the population. A demographic series, not a slum count. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SP.URB.TOTL.IN.ZS?format=json."
+    },
+    {
+      "id": "wb-fp.cpi.totl.zg",
+      "title": "World Bank: Inflation, consumer prices (annual %) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
+      "date": "2025",
+      "theme": "Economy",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator FP.CPI.TOTL.ZG: Inflation, consumer prices (annual %). Latest value in this extract: 8.8% in 2025. Earlier values, newest first: 2025 8.8%; 2024 10.5%; 2023 9.9%; 2022 7.7%; 2021 5.5%; 2020 5.7%; 2019 5.6%; 2018 5.5%. Annual consumer-price inflation. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/FP.CPI.TOTL.ZG?format=json."
+    },
+    {
+      "id": "wb-bx.trf.pwkr.dt.gd.zs",
+      "title": "World Bank: Personal remittances, received (% of GDP) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BD",
+      "date": "2025",
+      "theme": "Economy",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator BX.TRF.PWKR.DT.GD.ZS: Personal remittances, received (% of GDP). Latest value in this extract: 7.4% in 2025. Earlier values, newest first: 2025 7.4%; 2024 6.1%; 2023 5%; 2022 4.7%; 2021 5.3%; 2020 5.8%; 2019 5.2%; 2018 4.8%. Personal remittances received, as a share of GDP. Not the share of households that receive remittances. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/BX.TRF.PWKR.DT.GD.ZS?format=json."
+    },
+    {
+      "id": "wb-sn.itk.defc.zs",
+      "title": "World Bank: Prevalence of undernourishment (% of population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SN.ITK.DEFC.ZS?locations=BD",
+      "date": "2023",
+      "theme": "Health",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SN.ITK.DEFC.ZS: Prevalence of undernourishment (% of population). Latest value in this extract: 10.4% in 2023. Earlier values, newest first: 2023 10.4%; 2022 10.6%; 2021 10.3%; 2020 10.8%; 2019 10.9%; 2018 12%; 2017 13.4%; 2016 14.4%. Prevalence of undernourishment. Not the share of households that skipped a meal in the 2025 survey. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SN.ITK.DEFC.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SN.ITK.DEFC.ZS?format=json."
+    },
+    {
+      "id": "wb-se.xpd.totl.gd.zs",
+      "title": "World Bank: Government expenditure on education, total (% of GDP) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=BD",
+      "date": "2024",
+      "theme": "Education",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator SE.XPD.TOTL.GD.ZS: Government expenditure on education, total (% of GDP). Latest value in this extract: 2% in 2024. Earlier values, newest first: 2024 2%; 2023 2.2%; 2022 2.1%; 2021 2.2%; 2020 2.1%; 2019 1.1%; 2018 2.1%; 2017 2.1%. Government expenditure on education as a share of GDP. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/SE.XPD.TOTL.GD.ZS?format=json."
+    },
+    {
+      "id": "wb-it.net.user.zs",
+      "title": "World Bank: Individuals using the Internet (% of population) — Bangladesh",
+      "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
+      "date": "2024",
+      "theme": "Research",
+      "kind": "series",
+      "text": "World Bank World Development Indicators for Bangladesh. Indicator IT.NET.USER.ZS: Individuals using the Internet (% of population). Latest value in this extract: 53.4% in 2024. Earlier values, newest first: 2024 53.4%; 2023 44.5%; 2022 41.6%; 2021 38.9%; 2020 36.1%; 2019 30.4%; 2018 25.6%; 2017 21.5%. Individuals using the internet. Not household smartphone ownership. The series was read from the World Bank API on 4 October 2026 and is not recalculated here. Indicator page: https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD. API: https://api.worldbank.org/v2/country/BGD/indicator/IT.NET.USER.ZS?format=json."
+    },
+    {
+      "id": "wb-report-bangladesh-development-update-on-a-stable-path",
+      "title": "Bangladesh development update : on a stable path",
+      "url": "http://documents.worldbank.org/curated/en/766411467993236216/pdf/Bangladesh-development-update-on-a-stable-path.pdf",
+      "date": "2015",
+      "theme": "Poverty",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh development update : on a stable path. Document date 2015-10-01. Type: Working Paper. Abstract as published: Progress on reducing extreme poverty and boosting shared prosperity need to be further enhanced in the near-term by sustaining Gross Domestic Product (GDP) and remittances growth, creating jobs, containing inflation, and making progress on improving the quality of public service delivery. Private investments need to increase significantly to achieve the government’s 7 percent growth target for FY16. Moving forward in the immediate future, stronger attention is needed to (i) achieve safety and labor rights compliance in the garment industry, (ii) complete the critical ongoing road, electricity and gas development projects, (iii) implement the Public Private Partnership (PPP) law, (iv) improve the efficiency and solvency of the banking sector through better banking supervision and oversight by the Bangladesh Bank and corporate governance reforms in public banks, and (v) provide access to serviced land to domestic and foreign investors through the Special Economic Zones (SEZs) initiative. This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/766411467993236216/pdf/Bangladesh-development-update-on-a-stable-path.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-development-update-building-on-resili",
+      "title": "Bangladesh development update : building on resilience",
+      "url": "http://documents.worldbank.org/curated/en/904861523286370425/pdf/125061-WP-PUBLIC-Bangladesh-Development-Update-April-2018.pdf",
+      "date": "2018",
+      "theme": "Poverty",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh development update : building on resilience. Document date 2018-04-01. Type: Working Paper. Abstract as published: Industrial production and services growth remained resilient. Inflation has accelerated, primarily due to supply shocks. Monetary policy has been accommodative. Financial sector vulnerability is rising. With a tightening of prudential controls, lending rates are back to double digits. Despite significant recovery in both exports and remittances, the current account deficit widened sharply, driven by a surge in imports. The overall balance of payments swung into deficit for the first time since FY11. Consequently, the exchange rate has depreciated. Interventions to smoothen exchange rate adjustments have eroded foreign exchange reserves. The fiscal deficit has been contained as weak revenue growth was counterbalanced by even weaker growth in expenditures. GDP growth is projected in the 6.5-7 percent range in the medium-term, while macro stability will require heightened vigilance. Poverty reduction has continued but slowed. The amount of poverty reduction achieved by each percent of growth fell by a third. Extreme poverty is projected to fall modestly to 11-12 percent in the medium-term. Downside risks center on the solvency of banks and the run-up to elections elevating instability and policy uncertainty. Going forward, investment and innovation enabling reforms will be key to accelerating development progress. This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/904861523286370425/pdf/125061-WP-PUBLIC-Bangladesh-Development-Update-April-2018.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-development-update",
+      "title": "Bangladesh development update",
+      "url": "http://documents.worldbank.org/curated/en/944031468212071200/pdf/Bangladesh-development-update.pdf",
+      "date": "2013",
+      "theme": "Economy",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh development update. Document date 2013-10-01. Type: Working Paper. Abstract as published: Economic performance has remained resilient to global headwinds and disruptive politics in Bangladesh in FY13. Gross Domestic Product (GDP) growth decelerated for the second year in a row to 6 percent. Disruptions caused by political strife, deepening political tensions relating to the impending political transition and the inadequacies of improvements in the provision of power, gas and infrastructure were the key factors in the growth slowdown. These contributed to weakening investor confidence leading to a 1.2 percent decline in the private investment rate. Recovery in remittance growth contributed to sustaining private consumption growth which combined with a significant rise in public investment and robust increases in exports helped maintain GDP growth above the average 5 percent growth in developing countries in 2013. Growth declined in both the agriculture and service sectors while industrial growth increased slightly. Inflation decelerated but remained high. Annual average inflation declined from 8.7 percent in FY12 to 6.8 percent in FY13. External balances have improved further. The external trade deficit decreased significantly due primarily to an increase in export growth over FY12 and flat import payments. The banking system remains under stress and capital market activities have been weak. Several financial scams and resultant loan defaults in the state-owned commercial banks moved them into a position of insolvency, which needs to be urgently address This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/944031468212071200/pdf/Bangladesh-development-update.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-poverty-assessment-facing-old-and-new",
+      "title": "Bangladesh Poverty Assessment : Facing Old and New Frontiers in Poverty Reduction",
+      "url": "http://documents.worldbank.org/curated/en/793121572582830383/pdf/Bangladesh-Poverty-Assessment-Facing-Old-and-New-Frontiers-in-Poverty-Reduction.pdf",
+      "date": "2019",
+      "theme": "Education",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh Poverty Assessment : Facing Old and New Frontiers in Poverty Reduction. Document date 2019-10-31. Type: Working Paper. Abstract as published: Bangladesh has continued to improve access to education and educational attainment. Gains have been equitable, reducing disparities by gender, wealth, and geography. Yet progress is still needed at higher education levels, and there are still persistent gaps between the poor and rich and across districts. Gains are partly the result of Government of Bangladesh (GOB) efforts to improve education outcomes, but also reflect increased private spending by households. GOB education spending is still low compared to other countries in the region and presents large variation across the territory, which is not correlated with education outcomes and internal efficiency indicators. Only when public spending translates into lower student-to-teacher ratios do outcomes seem to improve, but those ratios remain inadequate compared to other countries and unevenly distributed across districts. Focusing on higher quality spending rather than increasing overall budgets will be a priority for further progress. Stipend programs help with the progressivity of the system at the primary level. However, at the secondary level, there is still significant room to improve the progressivity of these benefits. Finally, addressing norms and expectations around the benefits of schooling can be an important avenue to increase school attendance. About four in ten secondary school-age children out of school report lack of interest or being too old to go back as their main reasons for not attending s This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/793121572582830383/pdf/Bangladesh-Poverty-Assessment-Facing-Old-and-New-Frontiers-in-Poverty-Reduction.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-poverty-assessment-assessing-a-decade",
+      "title": "Bangladesh - Poverty assessment : assessing a decade of progress in reducing poverty, 2000-2010",
+      "url": "http://documents.worldbank.org/curated/en/109051468203350011/pdf/Bangladesh-Poverty-assessment-assessing-a-decade-of-progress-in-reducing-poverty-2000-2010.pdf",
+      "date": "2013",
+      "theme": "Poverty",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh - Poverty assessment : assessing a decade of progress in reducing poverty, 2000-2010. Document date 2013-06-01. Type: Poverty Assessment. Abstract as published: The purpose of this report is to document some of the aforementioned achievements over the 2000-2010 decade and to illustrate their collective impact on poverty in Bangladesh. Analysis is undertaken to identify which factors contributed to the rapid decline in poverty over time. The main limitation of this report is that the analysis is based on a limited number of data sources, which do not cover all aspects of the poverty reduction process. Nevertheless, to the extent possible, the analysis covers the key drivers of poverty reduction over what has been a remarkable decade for Bangladesh. The report is organized into four parts. Part one focuses on explaining poverty patterns observed over the 2000-2010 period, noting qualitative differences between the first and second half of the decade. The analysis in chapter one offers poverty projections based on survey data from this period. Chapter two describes some key characteristics of the poor. Using poverty decomposition methodology, part two identifies the main drivers of the poverty reduction experienced over the last decade. Chapter three shows that the two most important contributors to poverty reduction over the 2000-2010 periods were the growth of labor income and the declining dependency ratio. The remaining two chapters in this section focus on labor income and demographic factors to understand their respective linkages to poverty. The past few years have underscored the importance of global factors affecting This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/109051468203350011/pdf/Bangladesh-Poverty-assessment-assessing-a-decade-of-progress-in-reducing-poverty-2000-2010.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-public-expenditure-review-update-an-u",
+      "title": "Bangladesh - Public expenditure review update : an update of fiscal trends based on the 2010 public expenditure review",
+      "url": "http://documents.worldbank.org/curated/en/134951468211152104/pdf/Final-PER-Report-04-08-2015.pdf",
+      "date": "2015",
+      "theme": "Education",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh - Public expenditure review update : an update of fiscal trends based on the 2010 public expenditure review. Document date 2015-06-01. Type: Public Expenditure Review. Abstract as published: This report is an update to a public expenditure review (PER) for Bangladesh undertaken in 2010. It aims to analyze the major spending trends since (and before) the PER-2010. This includes the macro-fiscal stance (deficits, debt, etc.) and the allocation of resources within the budget on both a sectoral level (health, education, etc.) and a thematic level (wages, interest, etc.). It notes whether these trends are broadly in line with stated development objectives, and whether the revenue and spending stances are sustainable. It also aims to indicate any potential issues based on the evidence presented in this report and provide an indication of the areas in which improvements or set-backs have occurred since the PER-2010, as well as whether any new issues are emerging. This report also indicates where more in-depth analytical work can be undertaken, either to confirm the findings or to gain a better understanding of an issue. This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/134951468211152104/pdf/Final-PER-Report-04-08-2015.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-education-sector-public-expenditure-r",
+      "title": "Bangladesh - Education Sector Public Expenditure Review",
+      "url": "http://documents.worldbank.org/curated/en/288931625255171238/pdf/Bangladesh-Education-Sector-Public-Expenditure-Review.pdf",
+      "date": "2019",
+      "theme": "Education",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh - Education Sector Public Expenditure Review. Document date 2019-06-23. Type: Public Expenditure Review. Abstract as published: Adequate investment in human capital development is critical for enabling Bangladesh to reach its goal of becoming an upper middle-income country. Bangladesh, currently a lower-middle country with an annual per capita gross national income (GNI) of USD 1,470 (WDI 2019), aims to attain upper-middle income status by 2021 and eliminate poverty by 2030. Recognizing the importance of investing in education for building its human capital base, the government of Bangladesh (GoB) has been allocating a large portion of the national budget to the education sector each year during the past two decades. Effective utilization and equitable distribution of allocated public spending is important for ensuring adequate progress in education outcomes. This report analyzes major spending and outcomes trends in the overall education sector in recent years, with a focus on primary and secondary education. Responding to the recommendation of the 2015 Bangladesh Public Expenditure Review Update for more analytical work on public spending in different sectors, including education, the current study analyzes the trends in major education expenditures, access to education, quality of education, and disparities in education outcomes in the past two decades. It also looks at the composition of education expenditure, consistency between budget allocations and actual expenditures, equity in education spending, and potential links between spending and key educational outcomes. Because of data limitations, This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/288931625255171238/pdf/Bangladesh-Education-Sector-Public-Expenditure-Review.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-learning-poverty-brief-2021",
+      "title": "Bangladesh - Learning Poverty Brief - 2021",
+      "url": "http://documents.worldbank.org/curated/en/887971624929693037/pdf/Bangladesh-Learning-Poverty-Brief-2021.pdf",
+      "date": "2021",
+      "theme": "Education",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh - Learning Poverty Brief - 2021. Document date 2021-07-01. Type: Brief. Abstract as published: All children should be able to read by age 10. Reading is a gateway for learning as the child progresses through school, and conversely, an inability to read constrains opportunities for further learning. Reading proficiency is also critical for foundational learning in other subjects. In low- and middle-income countries, more than half the children cannot read and understand a simple story by the end of primary school. This learning crisis threatens countries’ efforts to build human capital and achieve the Sustainable Development Goals (SDGs), undermining sustainable growth and poverty reduction. Tackling the learning crisis in the foreseeable future requires rapid progress at a scale that has not been seen yet. To galvanize action on this crisis, the concept of Learning Poverty (LP) was introduced. It is a measure constructed jointly by the World Bank and the UNESCO Institute for Statistics. Fifty-eight percent of children in Bangladesh at late primary age today are not proficient in reading, adjusted for the out-of-school children. In Bangladesh, lack of data prevents comparisons of Learning Poverty for boys and girls. This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/887971624929693037/pdf/Bangladesh-Learning-Poverty-Brief-2021.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-learning-poverty-brief-2019",
+      "title": "Bangladesh - Learning Poverty Brief - 2019",
+      "url": "http://documents.worldbank.org/curated/en/755501637679700825/pdf/Bangladesh-Learning-Poverty-Brief-2019.pdf",
+      "date": "2019",
+      "theme": "Education",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh - Learning Poverty Brief - 2019. Document date 2019-10-01. Type: Brief. Abstract as published: The Human Capital Project seeks to raise awareness and increase demand for interventions to build human capital. It aims to accelerate better and more investments in people. In low- and middle-income countries, the learning crisis means that deficits in education outcomes are a major contributor to human capital deficits. Shortcomings in both the quantity of schooling and especially its quality explain a large part of the distance to the frontier. Addressing these shortcomings will require a multisectoral approach. All children should be able to read by age ten. As a major contributor to human capital deficits, the learning crisis undermines sustainable growth and poverty reduction. This brief summarizes some of the critical aspects of a new synthetic indicator, learning poverty, designed to help spotlight and galvanize action to address this crisis in Bangladesh as of 2019. This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/755501637679700825/pdf/Bangladesh-Learning-Poverty-Brief-2019.pdf."
+    },
+    {
+      "id": "wb-report-bangladesh-quality-learning-for-all-program-fulf",
+      "title": "Bangladesh - Quality Learning for All Program : Fulfilling Education's Promise",
+      "url": "http://documents.worldbank.org/curated/en/121231568368848062/pdf/Bangladesh-Quality-Learning-for-All-Program-Fulfilling-Educations-Promise.pdf",
+      "date": "2018",
+      "theme": "Education",
+      "kind": "report",
+      "text": "World Bank report. Bangladesh - Quality Learning for All Program : Fulfilling Education's Promise. Document date 2018-06-14. Type: Brief. Abstract as published: Education develops children’s latent capabilities, contributes to a skilled workforce and acts as a powerful tool for reducing poverty, increasing shared prosperity and boosting economic growth. Accordingly, enhancing the coverage and quality of basic education is a high priority for the Government of Bangladesh. The Quality Learning for All Program (QLEAP) is supporting the government’s Fourth Primary Education Development Program (PEDP4: 2018-23), which is a sector-wide program covering grades 1 through 5 and one year of pre-primary education. QLEAP aims to help improve the education quality and ensure equitable access to primary education. This is the report's abstract, not a new estimate and not a substitute for a later household survey. Link: http://documents.worldbank.org/curated/en/121231568368848062/pdf/Bangladesh-Quality-Learning-for-All-Program-Fulfilling-Educations-Promise.pdf."
+    },
+    {
+      "id": "wb-reading-rule",
+      "title": "World Bank series: what the numbers are and are not",
+      "url": "https://data.worldbank.org/country/bangladesh",
+      "date": "2026",
+      "theme": "Research",
+      "kind": "report",
+      "text": "Reading rule for this store. The World Bank national poverty headcount for Bangladesh, indicator SI.POV.NAHC, is 18.7 percent in 2022. That is the national poverty line figure the Bank publishes, and it is the same 18.7 percent carried as the HIES 2022 upper line beside the 2025 household survey. The 2025 household survey's own upper line is a different year and a different exercise. The two must not be averaged, and neither is a revision of the other unless a source says so. The Bank's international lines in this extract are $3.00, $4.20 and $8.30 a day in 2021 PPP. They are not the national line, and the $3.00 series must not be renamed as a $2.15 line. A modeled ILO labour rate is not a household-survey participation rate. A remittance-to-GDP ratio is not the share of households receiving remittances. Gross enrollment above 100 is not proof that every child completes school. Learning poverty is a reading measure, not a consumption poverty rate. An abstract is the report's claim for its own year. If a cell is absent, it stays absent."
+    }
+  ],
+  "figures": [
+    {
+      "id": "wb-si.pov.nahc",
+      "label": "Poverty headcount ratio at national poverty lines",
+      "value": "18.7%",
+      "year": "2022",
+      "unit": "world bank series",
+      "docId": "wb-si.pov.nahc",
+      "keys": [
+        "national poverty line",
+        "si.pov.nahc",
+        "hies 2022 world bank"
+      ],
+      "note": "National poverty line headcount published by the World Bank. For Bangladesh the 2022 value is the HIES upper line. It is not the 2025 household survey."
+    },
+    {
+      "id": "wb-si.pov.dday",
+      "label": "Poverty headcount ratio at $3.00 a day",
+      "value": "5.9%",
+      "year": "2022",
+      "unit": "world bank series",
+      "docId": "wb-si.pov.dday",
+      "keys": [
+        "$3.00 a day",
+        "3.00 a day",
+        "2021 ppp",
+        "international poverty"
+      ],
+      "note": "International poverty line at $3.00 a day in 2021 PPP, as named by the World Bank API. Not the national line and not a $2.15 line."
+    },
+    {
+      "id": "wb-si.pov.lmic",
+      "label": "Poverty headcount ratio at $4.20 a day",
+      "value": "20.5%",
+      "year": "2022",
+      "unit": "world bank series",
+      "docId": "wb-si.pov.lmic",
+      "keys": [
+        "$4.20 a day",
+        "4.20 a day",
+        "lower-middle"
+      ],
+      "note": "International line at $4.20 a day in 2021 PPP."
+    },
+    {
+      "id": "wb-si.pov.umic",
+      "label": "Poverty headcount ratio at $8.30 a day",
+      "value": "71.5%",
+      "year": "2022",
+      "unit": "world bank series",
+      "docId": "wb-si.pov.umic",
+      "keys": [
+        "$8.30 a day",
+        "8.30 a day",
+        "upper-middle"
+      ],
+      "note": "International line at $8.30 a day in 2021 PPP."
+    },
+    {
+      "id": "wb-si.pov.gini",
+      "label": "Gini index",
+      "value": "30.9%",
+      "year": "2022",
+      "unit": "world bank series",
+      "docId": "wb-si.pov.gini",
+      "keys": [
+        "gini",
+        "inequality"
+      ],
+      "note": "Gini index of income or consumption, World Bank series. Not a poverty headcount."
+    },
+    {
+      "id": "wb-ny.gdp.mktp.kd.zg",
+      "label": "GDP growth",
+      "value": "3.5%",
+      "year": "2025",
+      "unit": "world bank series",
+      "docId": "wb-ny.gdp.mktp.kd.zg",
+      "keys": [
+        "gdp growth",
+        "economic growth"
+      ],
+      "note": "Annual real GDP growth. A national accounts series, not a household welfare measure."
+    },
+    {
+      "id": "wb-ny.gdp.pcap.cd",
+      "label": "GDP per capita",
+      "value": "US$ 2,597",
+      "year": "2025",
+      "unit": "world bank series",
+      "docId": "wb-ny.gdp.pcap.cd",
+      "keys": [
+        "gdp per capita",
+        "income per person"
+      ],
+      "note": "GDP per capita in current US dollars. Not household median income."
+    },
+    {
+      "id": "wb-sp.pop.totl",
+      "label": "Population, total",
+      "value": "175,686,899",
+      "year": "2025",
+      "unit": "world bank series",
+      "docId": "wb-sp.pop.totl",
+      "keys": [
+        "total population",
+        "population of bangladesh",
+        "how many people"
+      ],
+      "note": "Mid-year population estimate published by the World Bank."
+    },
+    {
+      "id": "wb-sl.uem.totl.zs",
+      "label": "Unemployment, total",
+      "value": "3.8%",
+      "year": "2025",
+      "unit": "world bank series",
+      "docId": "wb-sl.uem.totl.zs",
+      "keys": [
+        "unemployment",
+        "jobless"
+      ],
+      "note": "Modeled ILO unemployment rate published by the World Bank. Not a household-survey underemployment rate."
+    },
+    {
+      "id": "wb-sl.tlf.cact.fe.zs",
+      "label": "Labor force participation rate, female",
+      "value": "38.6%",
+      "year": "2025",
+      "unit": "world bank series",
+      "docId": "wb-sl.tlf.cact.fe.zs",
+      "keys": [
+        "female labor force",
+        "female labour force",
+        "women labour participation",
+        "women's labour"
+      ],
+      "note": "Modeled ILO female labour-force participation, ages 15 and above. Not the participation rate in the 2025 household survey."
+    },
+    {
+      "id": "wb-se.adt.litr.zs",
+      "label": "Literacy rate, adult total",
+      "value": "79%",
+      "year": "2022",
+      "unit": "world bank series",
+      "docId": "wb-se.adt.litr.zs",
+      "keys": [
+        "adult literacy",
+        "literacy rate"
+      ],
+      "note": "Adult literacy, ages 15 and above."
+    },
+    {
+      "id": "wb-se.prm.enrr",
+      "label": "School enrollment, primary",
+      "value": "106.5%",
+      "year": "2024",
+      "unit": "world bank series",
+      "docId": "wb-se.prm.enrr",
+      "keys": [
+        "primary enrollment",
+        "primary enrolment",
+        "primary school"
+      ],
+      "note": "Gross primary enrollment. A rate above 100 can reflect over-age students, not universal completion."
+    },
+    {
+      "id": "wb-se.sec.enrr",
+      "label": "School enrollment, secondary",
+      "value": "64.3%",
+      "year": "2024",
+      "unit": "world bank series",
+      "docId": "wb-se.sec.enrr",
+      "keys": [
+        "secondary enrollment",
+        "secondary enrolment",
+        "secondary school"
+      ],
+      "note": "Gross secondary enrollment."
+    },
+    {
+      "id": "wb-sh.xpd.chex.gd.zs",
+      "label": "Current health expenditure",
+      "value": "2.2%",
+      "year": "2023",
+      "unit": "world bank series",
+      "docId": "wb-sh.xpd.chex.gd.zs",
+      "keys": [
+        "health expenditure",
+        "health spending",
+        "health budget share"
+      ],
+      "note": "Current health expenditure as a share of GDP. Not the share of the government budget."
+    },
+    {
+      "id": "wb-sh.sta.mmrt",
+      "label": "Maternal mortality ratio",
+      "value": "115 per 100,000 live births",
+      "year": "2023",
+      "unit": "world bank series",
+      "docId": "wb-sh.sta.mmrt",
+      "keys": [
+        "maternal mortality",
+        "maternal death"
+      ],
+      "note": "Modeled maternal mortality ratio. Not a count of deaths from a single facility study."
+    },
+    {
+      "id": "wb-sh.dyn.mort",
+      "label": "Mortality rate, under-5",
+      "value": "30.5 per 1,000 live births",
+      "year": "2024",
+      "unit": "world bank series",
+      "docId": "wb-sh.dyn.mort",
+      "keys": [
+        "under-5 mortality",
+        "under five mortality",
+        "child mortality"
+      ],
+      "note": "Under-five mortality per 1,000 live births."
+    },
+    {
+      "id": "wb-sp.dyn.le00.in",
+      "label": "Life expectancy at birth, total",
+      "value": "74.9 years",
+      "year": "2024",
+      "unit": "world bank series",
+      "docId": "wb-sp.dyn.le00.in",
+      "keys": [
+        "life expectancy"
+      ],
+      "note": "Life expectancy at birth, both sexes."
+    },
+    {
+      "id": "wb-sh.h2o.basw.zs",
+      "label": "People using at least basic drinking water services",
+      "value": "98.8%",
+      "year": "2024",
+      "unit": "world bank series",
+      "docId": "wb-sh.h2o.basw.zs",
+      "keys": [
+        "basic drinking water",
+        "drinking water services"
+      ],
+      "note": "People using at least basic drinking water services. Not the same as safely managed water."
+    },
+    {
+      "id": "wb-sh.sta.bass.zs",
+      "label": "People using at least basic sanitation services",
+      "value": "67.6%",
+      "year": "2024",
+      "unit": "world bank series",
+      "docId": "wb-sh.sta.bass.zs",
+      "keys": [
+        "basic sanitation",
+        "sanitation services"
+      ],
+      "note": "People using at least basic sanitation services. Not a measure of households without any toilet in a single survey."
+    },
+    {
+      "id": "wb-sp.urb.totl.in.zs",
+      "label": "Urban population",
+      "value": "33.2%",
+      "year": "2025",
+      "unit": "world bank series",
+      "docId": "wb-sp.urb.totl.in.zs",
+      "keys": [
+        "urban population",
+        "urbanization",
+        "urbanisation"
+      ],
+      "note": "Urban share of the population. A demographic series, not a slum count."
+    },
+    {
+      "id": "wb-fp.cpi.totl.zg",
+      "label": "Inflation, consumer prices",
+      "value": "8.8%",
+      "year": "2025",
+      "unit": "world bank series",
+      "docId": "wb-fp.cpi.totl.zg",
+      "keys": [
+        "inflation",
+        "consumer prices"
+      ],
+      "note": "Annual consumer-price inflation."
+    },
+    {
+      "id": "wb-bx.trf.pwkr.dt.gd.zs",
+      "label": "Personal remittances, received",
+      "value": "7.4%",
+      "year": "2025",
+      "unit": "world bank series",
+      "docId": "wb-bx.trf.pwkr.dt.gd.zs",
+      "keys": [
+        "remittances",
+        "remittance share"
+      ],
+      "note": "Personal remittances received, as a share of GDP. Not the share of households that receive remittances."
+    },
+    {
+      "id": "wb-sn.itk.defc.zs",
+      "label": "Prevalence of undernourishment",
+      "value": "10.4%",
+      "year": "2023",
+      "unit": "world bank series",
+      "docId": "wb-sn.itk.defc.zs",
+      "keys": [
+        "undernourishment",
+        "hunger prevalence",
+        "food insecurity world bank"
+      ],
+      "note": "Prevalence of undernourishment. Not the share of households that skipped a meal in the 2025 survey."
+    },
+    {
+      "id": "wb-se.xpd.totl.gd.zs",
+      "label": "Government expenditure on education, total",
+      "value": "2.0%",
+      "year": "2024",
+      "unit": "world bank series",
+      "docId": "wb-se.xpd.totl.gd.zs",
+      "keys": [
+        "education expenditure",
+        "education spending",
+        "education budget"
+      ],
+      "note": "Government expenditure on education as a share of GDP."
+    },
+    {
+      "id": "wb-it.net.user.zs",
+      "label": "Individuals using the Internet",
+      "value": "53.4%",
+      "year": "2024",
+      "unit": "world bank series",
+      "docId": "wb-it.net.user.zs",
+      "keys": [
+        "internet users",
+        "using the internet"
+      ],
+      "note": "Individuals using the internet. Not household smartphone ownership."
+    },
+    {
+      "id": "wb-learning-poverty",
+      "label": "Learning poverty at late primary age",
+      "value": "58%",
+      "year": "2021",
+      "unit": "percent of children",
+      "docId": "wb-report-bangladesh-learning-poverty-brief-2021",
+      "keys": [
+        "learning poverty",
+        "cannot read",
+        "reading proficiency"
+      ],
+      "note": "World Bank and UNESCO brief. Children at late primary age not proficient in reading, adjusted for those out of school. Not a consumption poverty rate, and not split by sex in the brief."
+    }
+  ],
+  "series": {
+    "wb-si.pov.nahc": [
+      {
+        "year": "2022",
+        "value": 18.7
+      }
+    ],
+    "wb-si.pov.dday": [
+      {
+        "year": "2022",
+        "value": 5.9
+      },
+      {
+        "year": "2016",
+        "value": 19.5
+      },
+      {
+        "year": "2010",
+        "value": 25.1
+      },
+      {
+        "year": "2005",
+        "value": 32.3
+      },
+      {
+        "year": "2000",
+        "value": 41.4
+      }
+    ],
+    "wb-si.pov.lmic": [
+      {
+        "year": "2022",
+        "value": 20.5
+      },
+      {
+        "year": "2016",
+        "value": 44.7
+      },
+      {
+        "year": "2010",
+        "value": 52.1
+      },
+      {
+        "year": "2005",
+        "value": 59.0
+      },
+      {
+        "year": "2000",
+        "value": 66.5
+      }
+    ],
+    "wb-si.pov.umic": [
+      {
+        "year": "2022",
+        "value": 71.5
+      },
+      {
+        "year": "2016",
+        "value": 85.7
+      },
+      {
+        "year": "2010",
+        "value": 88.6
+      },
+      {
+        "year": "2005",
+        "value": 90.0
+      },
+      {
+        "year": "2000",
+        "value": 92.3
+      }
+    ],
+    "wb-si.pov.gini": [
+      {
+        "year": "2022",
+        "value": 30.9
+      },
+      {
+        "year": "2016",
+        "value": 32.4
+      },
+      {
+        "year": "2010",
+        "value": 32.1
+      },
+      {
+        "year": "2005",
+        "value": 33.2
+      },
+      {
+        "year": "2000",
+        "value": 33.4
+      }
+    ],
+    "wb-ny.gdp.mktp.kd.zg": [
+      {
+        "year": "2025",
+        "value": 3.49
+      },
+      {
+        "year": "2024",
+        "value": 4.223
+      },
+      {
+        "year": "2023",
+        "value": 5.775
+      },
+      {
+        "year": "2022",
+        "value": 7.1
+      },
+      {
+        "year": "2021",
+        "value": 6.939
+      },
+      {
+        "year": "2020",
+        "value": 3.448
+      },
+      {
+        "year": "2019",
+        "value": 7.882
+      },
+      {
+        "year": "2018",
+        "value": 7.319
+      }
+    ],
+    "wb-ny.gdp.pcap.cd": [
+      {
+        "year": "2025",
+        "value": 2597.344
+      },
+      {
+        "year": "2024",
+        "value": 2593.416
+      },
+      {
+        "year": "2023",
+        "value": 2551.018
+      },
+      {
+        "year": "2022",
+        "value": 2716.486
+      },
+      {
+        "year": "2021",
+        "value": 2482.849
+      },
+      {
+        "year": "2020",
+        "value": 2248.851
+      },
+      {
+        "year": "2019",
+        "value": 2129.799
+      },
+      {
+        "year": "2018",
+        "value": 1965.244
+      }
+    ],
+    "wb-sp.pop.totl": [
+      {
+        "year": "2025",
+        "value": 175686899.0
+      },
+      {
+        "year": "2024",
+        "value": 173562364.0
+      },
+      {
+        "year": "2023",
+        "value": 171466990.0
+      },
+      {
+        "year": "2022",
+        "value": 169384897.0
+      },
+      {
+        "year": "2021",
+        "value": 167658854.0
+      },
+      {
+        "year": "2020",
+        "value": 166298024.0
+      },
+      {
+        "year": "2019",
+        "value": 164913055.0
+      },
+      {
+        "year": "2018",
+        "value": 163523103.0
+      }
+    ],
+    "wb-sl.uem.totl.zs": [
+      {
+        "year": "2025",
+        "value": 3.778
+      },
+      {
+        "year": "2024",
+        "value": 3.635
+      },
+      {
+        "year": "2023",
+        "value": 3.352
+      },
+      {
+        "year": "2022",
+        "value": 4.593
+      },
+      {
+        "year": "2021",
+        "value": 5.457
+      },
+      {
+        "year": "2020",
+        "value": 5.539
+      },
+      {
+        "year": "2019",
+        "value": 4.504
+      },
+      {
+        "year": "2018",
+        "value": 4.439
+      }
+    ],
+    "wb-sl.tlf.cact.fe.zs": [
+      {
+        "year": "2025",
+        "value": 38.649
+      },
+      {
+        "year": "2024",
+        "value": 38.708
+      },
+      {
+        "year": "2023",
+        "value": 41.874
+      },
+      {
+        "year": "2022",
+        "value": 43.687
+      },
+      {
+        "year": "2021",
+        "value": 42.181
+      },
+      {
+        "year": "2020",
+        "value": 40.323
+      },
+      {
+        "year": "2019",
+        "value": 39.33
+      },
+      {
+        "year": "2018",
+        "value": 38.056
+      }
+    ],
+    "wb-se.adt.litr.zs": [
+      {
+        "year": "2022",
+        "value": 79.0
+      },
+      {
+        "year": "2021",
+        "value": 76.36
+      },
+      {
+        "year": "2020",
+        "value": 74.91
+      },
+      {
+        "year": "2019",
+        "value": 74.68
+      },
+      {
+        "year": "2018",
+        "value": 73.91
+      },
+      {
+        "year": "2017",
+        "value": 72.89
+      },
+      {
+        "year": "2016",
+        "value": 72.76
+      },
+      {
+        "year": "2015",
+        "value": 65.14
+      }
+    ],
+    "wb-se.prm.enrr": [
+      {
+        "year": "2024",
+        "value": 106.491
+      },
+      {
+        "year": "2023",
+        "value": 103.116
+      },
+      {
+        "year": "2022",
+        "value": 107.802
+      },
+      {
+        "year": "2021",
+        "value": 106.335
+      },
+      {
+        "year": "2020",
+        "value": 110.067
+      },
+      {
+        "year": "2018",
+        "value": 107.19
+      },
+      {
+        "year": "2017",
+        "value": 105.129
+      },
+      {
+        "year": "2010",
+        "value": 94.776
+      }
+    ],
+    "wb-se.sec.enrr": [
+      {
+        "year": "2024",
+        "value": 64.3
+      },
+      {
+        "year": "2023",
+        "value": 65.986
+      },
+      {
+        "year": "2022",
+        "value": 67.038
+      },
+      {
+        "year": "2021",
+        "value": 66.828
+      },
+      {
+        "year": "2020",
+        "value": 66.433
+      },
+      {
+        "year": "2019",
+        "value": 65.119
+      },
+      {
+        "year": "2018",
+        "value": 65.271
+      },
+      {
+        "year": "2017",
+        "value": 62.341
+      }
+    ],
+    "wb-sh.xpd.chex.gd.zs": [
+      {
+        "year": "2023",
+        "value": 2.17
+      },
+      {
+        "year": "2022",
+        "value": 2.215
+      },
+      {
+        "year": "2021",
+        "value": 2.267
+      },
+      {
+        "year": "2020",
+        "value": 2.183
+      },
+      {
+        "year": "2019",
+        "value": 2.127
+      },
+      {
+        "year": "2018",
+        "value": 2.316
+      },
+      {
+        "year": "2017",
+        "value": 2.367
+      },
+      {
+        "year": "2016",
+        "value": 2.389
+      }
+    ],
+    "wb-sh.sta.mmrt": [
+      {
+        "year": "2023",
+        "value": 115.0
+      },
+      {
+        "year": "2022",
+        "value": 131.0
+      },
+      {
+        "year": "2021",
+        "value": 194.0
+      },
+      {
+        "year": "2020",
+        "value": 152.0
+      },
+      {
+        "year": "2019",
+        "value": 157.0
+      },
+      {
+        "year": "2018",
+        "value": 168.0
+      },
+      {
+        "year": "2017",
+        "value": 179.0
+      },
+      {
+        "year": "2016",
+        "value": 191.0
+      }
+    ],
+    "wb-sh.dyn.mort": [
+      {
+        "year": "2024",
+        "value": 30.5
+      },
+      {
+        "year": "2023",
+        "value": 30.6
+      },
+      {
+        "year": "2022",
+        "value": 30.7
+      },
+      {
+        "year": "2021",
+        "value": 30.9
+      },
+      {
+        "year": "2020",
+        "value": 31.4
+      },
+      {
+        "year": "2019",
+        "value": 32.3
+      },
+      {
+        "year": "2018",
+        "value": 33.5
+      },
+      {
+        "year": "2017",
+        "value": 35.0
+      }
+    ],
+    "wb-sp.dyn.le00.in": [
+      {
+        "year": "2024",
+        "value": 74.93
+      },
+      {
+        "year": "2023",
+        "value": 74.672
+      },
+      {
+        "year": "2022",
+        "value": 74.265
+      },
+      {
+        "year": "2021",
+        "value": 71.103
+      },
+      {
+        "year": "2020",
+        "value": 71.421
+      },
+      {
+        "year": "2019",
+        "value": 72.625
+      },
+      {
+        "year": "2018",
+        "value": 72.122
+      },
+      {
+        "year": "2017",
+        "value": 71.606
+      }
+    ],
+    "wb-sh.h2o.basw.zs": [
+      {
+        "year": "2024",
+        "value": 98.783
+      },
+      {
+        "year": "2023",
+        "value": 98.682
+      },
+      {
+        "year": "2022",
+        "value": 98.579
+      },
+      {
+        "year": "2021",
+        "value": 98.438
+      },
+      {
+        "year": "2020",
+        "value": 98.273
+      },
+      {
+        "year": "2019",
+        "value": 98.104
+      },
+      {
+        "year": "2018",
+        "value": 97.933
+      },
+      {
+        "year": "2017",
+        "value": 97.759
+      }
+    ],
+    "wb-sh.sta.bass.zs": [
+      {
+        "year": "2024",
+        "value": 67.617
+      },
+      {
+        "year": "2023",
+        "value": 65.63
+      },
+      {
+        "year": "2022",
+        "value": 63.65
+      },
+      {
+        "year": "2021",
+        "value": 61.677
+      },
+      {
+        "year": "2020",
+        "value": 59.711
+      },
+      {
+        "year": "2019",
+        "value": 57.753
+      },
+      {
+        "year": "2018",
+        "value": 55.803
+      },
+      {
+        "year": "2017",
+        "value": 53.861
+      }
+    ],
+    "wb-sp.urb.totl.in.zs": [
+      {
+        "year": "2025",
+        "value": 33.24
+      },
+      {
+        "year": "2024",
+        "value": 32.678
+      },
+      {
+        "year": "2023",
+        "value": 32.158
+      },
+      {
+        "year": "2022",
+        "value": 31.674
+      },
+      {
+        "year": "2021",
+        "value": 31.399
+      },
+      {
+        "year": "2020",
+        "value": 31.117
+      },
+      {
+        "year": "2019",
+        "value": 30.823
+      },
+      {
+        "year": "2018",
+        "value": 30.518
+      }
+    ],
+    "wb-fp.cpi.totl.zg": [
+      {
+        "year": "2025",
+        "value": 8.769
+      },
+      {
+        "year": "2024",
+        "value": 10.466
+      },
+      {
+        "year": "2023",
+        "value": 9.884
+      },
+      {
+        "year": "2022",
+        "value": 7.697
+      },
+      {
+        "year": "2021",
+        "value": 5.546
+      },
+      {
+        "year": "2020",
+        "value": 5.691
+      },
+      {
+        "year": "2019",
+        "value": 5.592
+      },
+      {
+        "year": "2018",
+        "value": 5.544
+      }
+    ],
+    "wb-bx.trf.pwkr.dt.gd.zs": [
+      {
+        "year": "2025",
+        "value": 7.424
+      },
+      {
+        "year": "2024",
+        "value": 6.115
+      },
+      {
+        "year": "2023",
+        "value": 5.046
+      },
+      {
+        "year": "2022",
+        "value": 4.674
+      },
+      {
+        "year": "2021",
+        "value": 5.334
+      },
+      {
+        "year": "2020",
+        "value": 5.816
+      },
+      {
+        "year": "2019",
+        "value": 5.228
+      },
+      {
+        "year": "2018",
+        "value": 4.844
+      }
+    ],
+    "wb-sn.itk.defc.zs": [
+      {
+        "year": "2023",
+        "value": 10.4
+      },
+      {
+        "year": "2022",
+        "value": 10.6
+      },
+      {
+        "year": "2021",
+        "value": 10.3
+      },
+      {
+        "year": "2020",
+        "value": 10.8
+      },
+      {
+        "year": "2019",
+        "value": 10.9
+      },
+      {
+        "year": "2018",
+        "value": 12.0
+      },
+      {
+        "year": "2017",
+        "value": 13.4
+      },
+      {
+        "year": "2016",
+        "value": 14.4
+      }
+    ],
+    "wb-se.xpd.totl.gd.zs": [
+      {
+        "year": "2024",
+        "value": 2.034
+      },
+      {
+        "year": "2023",
+        "value": 2.162
+      },
+      {
+        "year": "2022",
+        "value": 2.085
+      },
+      {
+        "year": "2021",
+        "value": 2.171
+      },
+      {
+        "year": "2020",
+        "value": 2.14
+      },
+      {
+        "year": "2019",
+        "value": 1.131
+      },
+      {
+        "year": "2018",
+        "value": 2.095
+      },
+      {
+        "year": "2017",
+        "value": 2.113
+      }
+    ],
+    "wb-it.net.user.zs": [
+      {
+        "year": "2024",
+        "value": 53.422
+      },
+      {
+        "year": "2023",
+        "value": 44.503
+      },
+      {
+        "year": "2022",
+        "value": 41.617
+      },
+      {
+        "year": "2021",
+        "value": 38.917
+      },
+      {
+        "year": "2020",
+        "value": 36.109
+      },
+      {
+        "year": "2019",
+        "value": 30.383
+      },
+      {
+        "year": "2018",
+        "value": 25.565
+      },
+      {
+        "year": "2017",
+        "value": 21.5
+      }
+    ]
+  }
+}
