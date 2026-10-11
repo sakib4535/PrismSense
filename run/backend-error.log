@@ -1,0 +1,8 @@
+[11/Oct/2026 05:13:15] "GET /api/health/ HTTP/1.1" 200 41
+[11/Oct/2026 05:13:17,288] - Broken pipe from ('127.0.0.1', 59072)
+[11/Oct/2026 05:13:25] "POST /api/demo/start/ HTTP/1.1" 200 112
+[11/Oct/2026 05:13:26] "GET /api/access/status/ HTTP/1.1" 200 112
+[11/Oct/2026 05:13:41] "POST /api/progga/ HTTP/1.1" 200 23924
+[11/Oct/2026 05:14:18] "POST /api/progga/ HTTP/1.1" 200 35682
+[11/Oct/2026 05:14:51] "GET /api/library/?q=&limit=60 HTTP/1.1" 200 62626
+[11/Oct/2026 05:16:04] "POST /api/progga/ HTTP/1.1" 200 52011

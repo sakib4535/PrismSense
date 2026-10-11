@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+      "backend/config/wsgi.py": {
+        "maxDuration": 120,
+        "includeFiles": [
+          "frontend/dist/**",
+          "backend/data/knowledge/*.json"
+        ]
+      }
+  }
+}

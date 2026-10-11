@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: prismsense-current
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health/
+    envVars:
+      - key: DJANGO_DEBUG
+        value: "0"
+      - key: DJANGO_SECRET_KEY
+        generateValue: true
+      - key: DJANGO_ALLOWED_HOSTS
+        value: .onrender.com,localhost,127.0.0.1
+      - key: PPRC_LLM
+        value: openrouter
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: OPENROUTER_MODEL
+        value: apodex/apodex-1.1-mini:free
+      - key: OPENROUTER_APP_NAME
+        value: PrismSense-current
+      - key: LOCAL_DEMO_NO_EXPIRY
+        value: "0"
