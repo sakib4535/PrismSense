@@ -57,9 +57,9 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.common.CommonMiddleware',
 ]
-ROOT_URLCONF = 'config.urls'
-WSGI_APPLICATION = 'config.wsgi.application'
-ASGI_APPLICATION = 'config.asgi.application'
+ROOT_URLCONF = 'backend.config.urls'
+WSGI_APPLICATION = 'backend.config.wsgi.application'
+ASGI_APPLICATION = 'backend.config.asgi.application'
 DATABASES = {}
 USE_TZ = True
 TIME_ZONE = 'Asia/Dhaka'
