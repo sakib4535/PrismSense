@@ -3,10 +3,7 @@
   "functions": {
       "backend/config/wsgi.py": {
         "maxDuration": 120,
-        "includeFiles": [
-          "frontend/dist/**",
-          "backend/data/knowledge/*.json"
-        ]
+        "includeFiles": "{frontend/dist/**,backend/data/knowledge/*.json}"
       }
   }
 }
