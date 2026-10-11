@@ -1,0 +1,145 @@
+/* ==========================================================================
+   PrismSense Compact Standalone View (style.css)
+   Neumorphic & iPhone Centric Design
+   ========================================================================== */
+
+:root {
+  --ink: #0f1c38;
+  --muted: #5e6f92;
+  --indigo: #4f69f6;
+  --bg: #eff2f8;
+  --neu-flat: 8px 8px 20px rgba(162, 178, 206, 0.38), -8px -8px 20px rgba(255, 255, 255, 0.95);
+  --neu-sm: 4px 4px 10px rgba(166, 180, 204, 0.3), -4px -4px 10px rgba(255, 255, 255, 0.9);
+  --neu-inset: inset 3px 3px 6px rgba(160, 175, 202, 0.35), inset -3px -3px 6px rgba(255, 255, 255, 0.9);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); -webkit-font-smoothing: antialiased; }
+.shell { max-width: 1040px; margin: auto; padding: 24px 24px 60px; }
+header {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  border-radius: 9999px;
+  background: rgba(246, 249, 254, 0.85);
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  box-shadow: var(--neu-sm);
+  margin-bottom: 24px;
+}
+.brand { text-decoration: none; color: var(--ink); font-weight: 800; font-size: 1.05rem; display: flex; gap: 10px; align-items: center; }
+.mark { background: linear-gradient(135deg, #4f69f6, #764be4); color: #fff; width: 32px; height: 32px; display: grid; place-items: center; border-radius: 10px; font-weight: 850; box-shadow: 0 4px 10px rgba(79, 105, 246, 0.35); }
+.status { font-size: 12px; font-weight: 700; color: #28784e; display: inline-flex; align-items: center; gap: 7px; }
+.status i { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #34c759; box-shadow: 0 0 0 3px rgba(52, 199, 89, 0.25); }
+
+.hero { padding: 40px 0 32px; max-width: 680px; }
+.eyebrow { font-size: 10px; font-weight: 850; letter-spacing: 1.4px; color: var(--indigo); text-transform: uppercase; margin-bottom: 8px; }
+.hero h1 { font-size: clamp(2.2rem, 4vw, 3.2rem); line-height: 1.1; letter-spacing: -0.04em; margin: 12px 0; color: var(--ink); font-weight: 800; }
+.hero h1 em { font-style: normal; color: var(--indigo); }
+.hero p { color: var(--muted); max-width: 500px; line-height: 1.65; margin: 0; font-size: 1.05rem; }
+
+.workbench {
+  background: linear-gradient(145deg, #ffffff, #edf2fc);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+  border-radius: 28px;
+  box-shadow: var(--neu-flat);
+  overflow: hidden;
+  padding: 18px;
+}
+.tabs {
+  display: flex;
+  gap: 8px;
+  padding: 6px;
+  background: rgba(230, 236, 248, 0.65);
+  box-shadow: var(--neu-inset);
+  border-radius: 16px;
+  margin-bottom: 16px;
+}
+.tabs button {
+  font: inherit;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  padding: 12px 18px;
+  flex: 1;
+  text-align: left;
+  border-radius: 12px;
+  color: var(--muted);
+  transition: all 0.2s ease;
+}
+.tabs button b, .tabs button small { display: block; }
+.tabs button b { font-size: 13px; color: var(--ink); font-weight: 750; }
+.tabs button small { font-size: 11px; margin-top: 3px; color: var(--muted); }
+.tabs button.active {
+  background: #ffffff;
+  box-shadow: 2px 2px 6px rgba(150, 168, 198, 0.3), -2px -2px 6px #ffffff;
+}
+.tabs button.active b { color: var(--indigo); }
+
+form { padding: 12px 4px 6px; }
+form label { display: block; font-size: 12px; font-weight: 800; color: var(--ink); margin-bottom: 8px; }
+textarea {
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 18px;
+  resize: vertical;
+  padding: 16px;
+  font: 14px/1.6 -apple-system, sans-serif;
+  color: var(--ink);
+  background: rgba(240, 244, 252, 0.65);
+  box-shadow: var(--neu-inset);
+  outline: none;
+}
+textarea:focus { background: #ffffff; box-shadow: var(--neu-inset), 0 0 0 3px rgba(79, 105, 246, 0.2); }
+.formfoot { display: flex; align-items: center; justify-content: space-between; margin-top: 14px; color: var(--muted); font-size: 11px; }
+.submit {
+  background: linear-gradient(135deg, #4f69f6, #764be4);
+  color: white;
+  border: 0;
+  border-radius: 9999px;
+  padding: 11px 22px;
+  font-weight: 750;
+  font-size: 13px;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(79, 105, 246, 0.35);
+  transition: transform 0.2s ease;
+}
+.submit:hover { transform: translateY(-2px); }
+.submit:disabled { opacity: 0.55; cursor: wait; }
+
+.result {
+  border-top: 1px solid rgba(215, 224, 240, 0.7);
+  margin-top: 18px;
+  padding: 20px 4px 10px;
+}
+.resulthead { display: flex; justify-content: space-between; gap: 15px; align-items: center; }
+.result h2 { font-size: 1.25rem; font-weight: 800; color: var(--ink); margin: 6px 0 0; }
+.grade {
+  border-radius: 9999px;
+  padding: 6px 14px;
+  background: linear-gradient(135deg, #ffffff, #edf2fc);
+  box-shadow: var(--neu-sm);
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+.grade.good { color: #28784e; background: linear-gradient(135deg, #ffffff, #e8f7f0); }
+.answer { line-height: 1.75; font-size: 14px; margin-top: 20px; color: var(--ink); }
+.answer p { margin: 0 0 14px; }
+.answer sup { color: var(--indigo); font-weight: 800; }
+.result details { border-top: 1px solid rgba(215, 224, 240, 0.7); padding: 14px 0; font-size: 12px; }
+.result summary { cursor: pointer; font-weight: 750; color: var(--indigo); }
+.result pre { background: #111a2e; color: #eaf0ff; padding: 16px; border-radius: 16px; white-space: pre-wrap; font-size: 11px; }
+
+.tablewrap { overflow-x: auto; margin: 12px 0 18px; border-radius: 14px; background: #fff; box-shadow: var(--neu-sm); }
+table { border-collapse: collapse; width: 100%; font-size: 12px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid rgba(225, 232, 246, 0.8); }
+th { background: #f4f6fc; color: var(--muted); font-weight: 800; text-transform: uppercase; font-size: 10px; }
+
+footer { padding: 32px 0; color: var(--muted); font-size: 12px; font-weight: 600; display: flex; justify-content: space-between; border-top: 1px solid rgba(215, 224, 240, 0.7); margin-top: 32px; }
