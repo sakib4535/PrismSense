@@ -1,5 +1,2 @@
-[tool.vercel]
-entrypoint = "backend.config.wsgi:app"
-
 [tool.vercel.scripts]
 build = "python build_vercel.py"
