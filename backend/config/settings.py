@@ -1,6 +1,7 @@
 from pathlib import Path
 import os
 import secrets
+import sys
 
 try:
     from . import local_secrets as _local_secrets
@@ -9,6 +10,8 @@ except ImportError:
     _local_secrets = None
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+if str(BASE_DIR) not in sys.path:
+    sys.path.insert(0, str(BASE_DIR))
 LOCAL_SECRETS_FILE = Path(__file__).resolve().with_name('local_secrets.py')
 LOCAL_OPENROUTER_API_KEY = str(getattr(_local_secrets, 'OPENROUTER_API_KEY', '') or '').strip()
 
